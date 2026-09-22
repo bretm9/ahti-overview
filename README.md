@@ -146,7 +146,7 @@ Comments and footnotes use editor marks. On save, those marks are removed from t
 
 ## Development
 
-I'm the sole developer and use Claude Code for coding assistance. I chose the file format and architecture, reviewed and tested the code on real devices, and handled signing, entitlements, App Review, and releases.
+I'm the sole developer. I chose the file format and architecture, reviewed and tested the code on real devices, and handled signing, entitlements, App Review, and releases.
 
 ---
 
